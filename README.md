@@ -7,3 +7,8 @@ Assignment 2
 
 Blog post: https://yaboyousf.blogspot.com/2026/09/r-studios-assignment-2.html
 
+Corrected myMean function:
+
+```
+myMean <- function(assignment2) {return(sum(assignment2) / length(assignment2))}
+```
